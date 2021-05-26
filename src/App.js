@@ -11,7 +11,7 @@ function App() {
      <Product/> 
       
   
-    </div>
+    </div> 
   );
 }
 
